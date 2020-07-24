@@ -5,3 +5,4 @@ data/val
 results.db
 widerface.db
 data/results
+data/*_results
